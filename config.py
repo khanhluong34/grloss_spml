@@ -26,10 +26,10 @@ _LOOKUP = {
         'cub': './data/classnames/cub_labels.txt'
     },
     'relation':{
-        'pascal':'/home/s/luongtk/GRLoss/data/relation/relation+voc.npy',
-        'coco':'/home/s/luongtk/GRLoss/data/relation/relation+coco.npy',
-        'nuswide':'/home/s/luongtk/GRLoss/data/relation/relation+nuswide.npy',
-        'cub':'/home/s/luongtk/GRLoss/data/relation/relation+cub.npy'
+        'pascal':'./data/relation/relation+voc.npy',
+        'coco':'./data/relation/relation+coco.npy',
+        'nuswide':'./data/relation/relation+nuswide.npy',
+        'cub':'./data/relation/relation+cub.npy'
     
     },
     'sparse_topk': {
