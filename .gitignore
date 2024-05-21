@@ -129,8 +129,3 @@ dmypy.json
 .pyre/
 
 results/
-
-data/coco/
-data/pascal/
-data/nuswide/
-data/cub/
