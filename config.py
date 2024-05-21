@@ -20,10 +20,10 @@ _LOOKUP = {
         'cub': 312
     },
     'classnames': {
-        'pascal': '/home/s/luongtk/GRLoss/data/classnames/voc_labels.txt',
-        'coco': '/home/s/luongtk/GRLoss/data/classnames/coco_labels.txt',
-        'nuswide': '/home/s/luongtk/GRLoss/data/classnames/nuswide_labels.txt',
-        'cub': '/home/s/luongtk/GRLoss/data/classnames/cub_labels.txt'
+        'pascal': './data/classnames/voc_labels.txt',
+        'coco': './data/classnames/coco_labels.txt',
+        'nuswide': './data/classnames/nuswide_labels.txt',
+        'cub': './data/classnames/cub_labels.txt'
     },
     'relation':{
         'pascal':'/home/s/luongtk/GRLoss/data/relation/relation+voc.npy',
