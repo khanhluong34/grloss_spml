@@ -17,8 +17,10 @@ def get_metadata(dataset_name):
     elif dataset_name == 'coco':
         meta = {
             'num_classes': 80,
-            'path_to_dataset': '/home/s/luongtk/VLPL/data/coco',
-            'path_to_images': '/home/s/luongtk/vlm_mlc/data/coco'
+            # 'path_to_dataset': '/home/s/luongtk/VLPL/data/coco',
+            'path_to_dataset': './data/coco',
+            # 'path_to_images': '/home/s/luongtk/vlm_mlc/data/coco',
+            'path_to_images': '/kaggle/input/coco2014'
         }
     elif dataset_name == 'nuswide':
         meta = {
