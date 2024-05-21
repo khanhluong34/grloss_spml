@@ -1,0 +1,12 @@
+ftfy
+matplotlib
+munch
+numpy
+Pillow
+regex
+scikit_learn
+scipy
+torch
+torchvision
+tqdm
+typing_extensions
