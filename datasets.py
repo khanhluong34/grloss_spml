@@ -30,7 +30,7 @@ def get_metadata(dataset_name):
         meta = {
             'num_classes': 312,
             # 'path_to_dataset': '/home/s/ducnq/spml-paper/data/cub',
-            'path_to_dataset': '/kaggle/working/grloss_spml/data/cub',
+            'path_to_dataset': './data/cub',
             # 'path_to_images': '/home/s/ducnq/spml-paper/data/cub/CUB_200_2011/images',
             'path_to_images': '/kaggle/input/cub2002011/CUB_200_2011/images'
         }
